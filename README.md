@@ -1,3 +1,7 @@
+build for buttx:
+
+https://github.com/jerryscript-project/iotjs/blob/master/docs/build/Build-for-STM32F4-NuttX.md
+
 # IoT.js: Platform for Internet of Things with JavaScript
 [![License](https://img.shields.io/badge/licence-Apache%202.0-brightgreen.svg?style=flat)](LICENSE)
 [![Build Status](https://travis-ci.org/jerryscript-project/iotjs.svg?branch=master)](https://travis-ci.org/jerryscript-project/iotjs)
