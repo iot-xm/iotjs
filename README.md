@@ -1,4 +1,4 @@
-build for buttx:
+build for nuttx:
 
 https://github.com/jerryscript-project/iotjs/blob/master/docs/build/Build-for-STM32F4-NuttX.md
 
